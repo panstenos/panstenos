@@ -1,6 +1,6 @@
 ### About Me ♟️
 
-- Data Scientist, Beng in Mechanical Engineering
+- Data Scientist, Beng in Mechanical Engineering with First Class Honours
 - BEng Mechanical Engineering at Imperial College London (Class of 2023 - 1st Class Honours)
 - Current Projects: tracking poker hands using RFID technology
 - Current Focus: Machine Learning & Deep Learning
