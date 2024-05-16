@@ -1,6 +1,6 @@
 ### About Me ♟️
 
-- Data Scientist, Imperial graduate with Beng in Mechanical Engineering with First Class Honours
+- Imperial graduate | Beng in Mechanical Engineering with First Class Honours
 - [DeepLearning.AI TensorFlow Developer Specialization (Mar. 2024)](https://www.coursera.org/account/accomplishments/specialization/QBV47PYJ2TVK)
 - [AWS Certified Cloud Practitioner (Feb. 2024)](https://www.credly.com/badges/d1d64d8f-5c86-4d7b-99d0-829f4e09f37d)
 - [Professional Certificate in Machine Learning (Dec. 2023)](https://coursera.org/share/3b978dcb7ed6f8655833fe37d52f02e6)
